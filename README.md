@@ -6,9 +6,9 @@
 
 <samp>😶 Sup I'm <a href=https://github.com/edions>EdisonP</a>.</samp>
 <br>
-<samp>🔭 I’m currently working on something.</samp>
+<samp>🌱 I’m currently learning **NOTHING**.</samp>
 <br>
-<samp>🌱 I’m currently learning **NOTHING**, sort of.</samp>
+<samp>🔭 I’m currently working on something, sort of.</samp>
 <br>
 <samp>🤝 I’m looking to collaborate on some simple projects.</samp>
 <br>
